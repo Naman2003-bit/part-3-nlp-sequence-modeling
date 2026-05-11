@@ -1,0 +1,11 @@
+original_text	actual_label	predicted_label
+can you share the status of my router request my ticket number is	neutral	neutral
+the refund process was fast and convenient	positive	positive
+i would like to know more about the available plans	neutral	neutral
+i need information about the payment process my ticket number is	neutral	neutral
+please provide the steps to activate analytics	neutral	neutral
+please tell me how to update my account details	neutral	neutral
+the delivery was smooth and the product quality is excellent i appreciate the quick response	positive	positive
+the response from the team was helpful and professional my ticket number is	positive	positive
+please tell me how to update my account details	neutral	neutral
+the app experience is smooth and reliable	positive	positive
